@@ -1,3 +1,7 @@
-#include <iostream>
+#include <Arduino.h>
 
-int main() { std::cout << "Hello world"; }
+#define LED_PIN 2
+
+void setup() {}
+
+void loop() {}
